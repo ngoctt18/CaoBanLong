@@ -50,8 +50,8 @@ i.fas.fa-check {
 
 .feature-item img {
     border-radius: 3%;
-    border: 2px solid #bd6565;
-    box-shadow: 0 5px 5px 0 #adb5bd;
+    border: 0px solid #bd6565;
+    box-shadow: 5px 6px 5px 0 #adb5bd;
     width: 300px;
     height:  300px;
     display: block;
@@ -64,7 +64,7 @@ i.fas.fa-check {
 
 .testimonial-item img {
     max-width: 100%;
-    box-shadow: 0 5px 5px 0 #adb5bd;
+    box-shadow: 2px 6px 5px 0 #adb5bd;
 }
 .rounded-circle {
     border-radius: 50%!important;
